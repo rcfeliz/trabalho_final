@@ -1,37 +1,41 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# trabalho\_final
+# Trabalho Final
 
-<!-- badges: start -->
+## Introdução
 
-<!-- badges: end -->
+“Legal geography” é um campo recente no Direito. A “legal geography”
+tenta compreender a forma como o espaço se relaciona com a lei. O ponto
+de partida dessa área é que tanto a lei conforma o espaço, como o espaço
+conforma a lei. Existe uma relação recíproca entre um e outra. Essa
+premissa confronta diretamente o pressuposto, tão comum no Direito, de
+que a norma é abstrata. A própria ideia de uma “abstralidade” da norma,
+é uma ideia de que a lei não se situa nem no tempo, nem no espaço, mas
+que ela é universal. Não é novidade que a lei não é universal. As
+diferenças de gênero e de raça na aplicação da lei estão bem
+documentadas; as diferenças no tempo também, pois a perspectiva
+histórica do Direito também é evidente (e tem inclusive, campo próprio
+de estudo, na História do Direito). Mas o que todas essas visões que
+contestam a visão de universalidade da lei têm em comum é que elas ainda
+falam de um ponto de vista a-espacial. A raça e o gênero ainda são
+conceitos abstratos - menos abstratos que “o Homem” universal, que não
+tem corpo, nem história, nem geografia - mas ainda são conceitos
+desterrados, que não estão localizados no espaço.
 
-The goal of trabalho\_final is to …
+O que este trabalho visa fazer é analisar a relação do espaço com as
+normas. Para tanto, o que iremos fazer é analisar é a relação entre
+crime e espaço. A pergunta com a qual estou interessado é: “como as
+normas penais (normas de origem federal e, portanto, que não deveria
+variar no municipal), são recebidas em escala municipal?” OU É “como as
+normas ambientais são reproduzidas em escala municipal?”
 
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
+Para responder a isso, utilizaremos a base de dados da Secretaria de
+Segurança Pública do Estado de São Paulo OU CETESB.
 
-``` r
-summary(cars)
-#>      speed           dist       
-#>  Min.   : 4.0   Min.   :  2.00  
-#>  1st Qu.:12.0   1st Qu.: 26.00  
-#>  Median :15.0   Median : 36.00  
-#>  Mean   :15.4   Mean   : 42.98  
-#>  3rd Qu.:19.0   3rd Qu.: 56.00  
-#>  Max.   :25.0   Max.   :120.00
-```
+Este trabalho é limitado na medida em que, por mais que ele se proponha
+a discutir a relação entre lei e espaço, ele se limita geograficamente a
+São Paulo apenas. A relação entre lei e espaço, portanto, poderá ser
+vista apenas em comparações municipais.
 
-You’ll still need to render `README.Rmd` regularly, to keep `README.md`
-up-to-date. `devtools::build_readme()` is handy for this. You could also
-use GitHub Actions to re-render `README.Rmd` every time you push. An
-example workflow can be found here:
-<https://github.com/r-lib/actions/tree/master/examples>.
-
-You can also embed plots, for example:
-
-![](README_files/figure-gfm/pressure-1.png)<!-- -->
-
-In that case, don’t forget to commit and push the resulting figure
-files, so they display on GitHub.
+## Como responder a isso
