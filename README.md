@@ -34,8 +34,8 @@ Para responder a isso, utilizaremos a base de dados da Secretaria de
 Segurança Pública do Estado de São Paulo OU CETESB.
 
 Este trabalho é limitado na medida em que, por mais que ele se proponha
-a discutir a relação entre lei e espaço, ele se limita geograficamente a
-São Paulo apenas. A relação entre lei e espaço, portanto, poderá ser
-vista apenas em comparações municipais.
+a discutir a relação entre lei e espaço, ele analisa São Paulo apenas. A
+relação entre lei e espaço, portanto, poderá ser vista apenas em
+comparações municipais.
 
 ## Como responder a isso
